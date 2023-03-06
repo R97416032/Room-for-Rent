@@ -1,0 +1,51 @@
+
+.bt_register{
+		font-size: 15px;
+		
+		width: 60%;
+		height: 80rpx;
+		margin-top: 10%;
+		background: -webkit-gradient(linear, left top, right top, from(#006eff),to(#00BFFF) );
+		background: -webkit-linear-gradient(left, #006eff,#00BFFF );
+		background: linear-gradient(to right, #006eff,#00BFFF );
+		-webkit-box-shadow: -1px 4px 6px 3px rgba(0, 81, 255, 0.4);
+		        box-shadow: -1px 4px 6px 3px rgba(0, 81, 255, 0.4);
+}
+.bt_login{
+		font-size: 15px;
+		
+		width: 60%;
+		height: 80rpx;
+		margin-top: 20%;
+		background: -webkit-gradient(linear, left top, right top, from(#006eff),to(#00BFFF) );
+		background: -webkit-linear-gradient(left, #006eff,#00BFFF );
+		background: linear-gradient(to right, #006eff,#00BFFF );
+		-webkit-box-shadow: -1px 4px 6px 3px rgba(0, 81, 255, 0.4);
+		        box-shadow: -1px 4px 6px 3px rgba(0, 81, 255, 0.4);
+}
+.input{
+		margin-top: 20rpx;
+		margin-left: 11%;
+		margin-right: 10%;
+		font-size: 15px;
+		border-bottom-style: solid;
+		border-bottom-width: thin;
+}
+.bg-set{
+	    position: fixed;
+	    width: 100%;
+	    height: 100%;
+	    top: 0;
+	    left: 0;
+	    z-index: -1;
+}
+.a{
+		background-color: rgba(255,255,255,0.1);
+}
+.segmented{
+		position: fixed;
+		top: 10%;
+		left: 20%;
+		width: 60%;
+}
+

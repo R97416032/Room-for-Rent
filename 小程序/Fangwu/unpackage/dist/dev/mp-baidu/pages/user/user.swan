@@ -1,0 +1,1 @@
+<view><block s-if="{{index===0}}"><house vue-id="37fe3b31-1"></house></block><block s-if="{{index===1}}"><order vue-id="37fe3b31-2"></order></block><block s-if="{{index===3}}"><user vue-id="37fe3b31-3"></user></block><foo-bar bind:toIndex="__e" vue-id="37fe3b31-4" data-event-opts="{{[['^toIndex',[['toIndex']]]]}}"></foo-bar></view>

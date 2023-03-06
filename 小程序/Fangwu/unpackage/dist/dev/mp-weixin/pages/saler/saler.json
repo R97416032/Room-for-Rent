@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "house": "/pages/saler/house",
+    "order": "/pages/saler/order",
+    "mine": "/pages/saler/mine",
+    "foo-bar": "/components/fooBar/fooBar"
+  }
+}

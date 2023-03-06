@@ -1,0 +1,28 @@
+﻿  Sensor.cpp
+  SensorDlg.cpp
+  Thread.cpp
+c:\users\cc\desktop\sensor\sensor\thread.cpp(87): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cc\desktop\sensor\sensor\thread.cpp(93): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cc\desktop\sensor\sensor\thread.cpp(96): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cc\desktop\sensor\sensor\thread.cpp(99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\cc\desktop\sensor\sensor\thread.cpp(36): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(640): note: 参见“_itoa”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(40): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(86): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(88): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(89): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(90): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(91): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(92): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(95): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\cc\desktop\sensor\sensor\thread.cpp(98): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  正在生成代码...

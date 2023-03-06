@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/admin/admin",
+    "pages/saler/saler",
+    "pages/user/user",
+    "pages/user/information",
+    "pages/user/houseallthing",
+    "pages/saler/information",
+    "pages/saler/houseallthing",
+    "pages/saler/houseallthingyz"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "房屋出租系统",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
